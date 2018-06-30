@@ -3,5 +3,5 @@ Utility for automatically toggling your monitor's refresh rate / frequency betwe
 
 Example usage:
 
-ToggleMonitorRefreshRate.exe 144   (<-- will toggle between 60 and 144)
-ToggleMonitorRefreshRate.exe       (<-- will toggle between 60 and 100)
+    ToggleMonitorRefreshRate.exe 144   (<-- will toggle between 60 and 144)
+    ToggleMonitorRefreshRate.exe       (<-- will toggle between 60 and 100)
