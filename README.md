@@ -5,3 +5,5 @@ Example usage:
 
     ToggleMonitorRefreshRate.exe 144   (<-- will toggle between 60 and 144)
     ToggleMonitorRefreshRate.exe       (<-- will toggle between 60 and 100)
+
+Just download the prebuilt exe, or build it yourself.
