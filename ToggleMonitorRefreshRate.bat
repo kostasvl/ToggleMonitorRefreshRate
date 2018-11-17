@@ -14,6 +14,8 @@ echo.
 echo App exited?
 pause
 
+echo.
+
 "%~dp0ToggleMonitorRefreshRate.exe" 60
 
 echo.
