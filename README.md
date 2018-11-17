@@ -3,7 +3,7 @@ Utility for automatically toggling your monitor's refresh rate / frequency betwe
 
 Why? :) Well, do you really need the extra heat and power consumption from your monitor / gfx card while in Windows, browsing the internet? Just switch to 60 Hz by default, and use this tool when you are about to start a game.
 
-Just download the prebuilt exe, or build it yourself.
+You can download the prebuilt exe, or build it yourself.
 
 Example usage:
 
